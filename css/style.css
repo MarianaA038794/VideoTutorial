@@ -1,0 +1,15 @@
+.”fixed”{
+  Background: lightcoral;
+  Height:60px;
+  Width:130px;
+  Position:fixed;
+  top:10px;
+  Right:10px;
+  font-size: 20px;
+  text-align: center;}
+footer{
+text-align:center;
+color: lightcoral;
+background: darkgray;
+font-size:20;
+}
